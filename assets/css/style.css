@@ -28,3 +28,30 @@
 }
 
 /* end navbar */ 
+
+/* jumbotron */
+    .jumbotron{
+        background-color: #23b2ca;
+        color: #fff;    
+    }
+/* end jumbotron */
+
+/* column */
+    .card{
+        width: 18rem; 
+        margin:auto;
+    }
+/* end column */
+
+/* footer */
+    /* footer{
+        background-color: #3b5998;
+        position: absolute;
+        bottom: 0;
+        width:100%;
+        padding-top: 1rem;
+    }
+    footer p{
+        color:#fff;
+    } */
+/* end footer */
